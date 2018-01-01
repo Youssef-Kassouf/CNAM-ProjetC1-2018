@@ -9,4 +9,3 @@ Sujet : **Firebase Cloud Firestore**
  - Avantages et inconvénients du Cloud Firestore
  - Code Exemple
  - App Exemple
-
