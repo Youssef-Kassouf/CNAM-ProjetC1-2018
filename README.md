@@ -38,25 +38,25 @@ Cloud Firestore est une base de données sur le cloud, et qui les applications i
 - **Data model:**
 Suivant le modèle de données NoSQL de Cloud Firestore, les données sont stockées dans des documents contenant des champs correspondant aux valeurs, et ces documents sont aussi stockés dans des collections. Les documents peuvent contenir de nombreux types de données, depuis les chaînes de caractères et les nombres jusqu'aux objets complexes. Les documents pouvent aussi contenir des sous-collections.
 <br><br>
-- **Flexibility: **
+- **Flexibility:**
 Le modèle de données Cloud Firestore prend en charge des structures de données hiérarchiques flexibles. Les données sont stockées dans des documents, organisés en collections. Les documents peuvent contenir des objets imbriqués complexes en plus des sous-collections.
 <br><br>
-- **Expressive querying: **
+- **Expressive querying:**
 Les requêtes peuvent être utilisées pour récupérer des documents spécifiques ou pour récupérer tous les documents d'une collection correspondants aux paramètres des requêtes.
 Les résultats peuvent êtres triés, filtrés et limités.
 Les requêtes sont aussi indexées par défaut, de sorte que leurs performances sont proportionnelles à la taille de résultats et non à l'ensemble de données.
 <br><br>
-- **Realtime updates: **
+- **Realtime updates:**
 Comme "Realtime Database", Cloud Firestore utilise la synchronisation des données pour mettre à jour les données sur tout appareil connecté. Cependant, il est également conçu pour rendre les requêtes d'extraction simples et efficaces.
 Des écouteurs en temps réel (realtime listeners) peuvent êtres ajoutés pour conserver les données de l'application à jour, sans récupérer la base de données entière chaque fois qu'une mise à jour se produit.
 <br><br>
-- **Offline support: **
+- **Offline support:**
 Cloud Firestore met en cache les données que l'application utilise activement, afin que l'application puisse écouter, écrire, et lire des données même si l'appareil n'est pas connecté. Lorsque l'appareil se reconnect, Cloud Firestore synchronise toutes les modifications locales vers le cloud.
 <br><br>
-- **Designed to scale: **
+- **Designed to scale:**
 Cloud Firestore apporte le meilleur de la puissante infrastructure de Google Cloud Platform: la réplication automatique de données multi-régions, la fortes garanties de cohérence, les opérations par lots atomiques, et le support des transactions réelles.
 <br><br>
-- **Security: **
+- **Security:**
 L'accès aux données dans Cloud Firestore peut être protégé avec "Firebase Authentication" et les règles de sécurité du Cloud Firestore pour Android, iOS et JavaScript, ou avec Identity and Access Management (IAM) pour les langues côté serveur.
 
 
