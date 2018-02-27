@@ -12,7 +12,7 @@ Sujet: **Firebase Cloud Firestore**
 *Projet préparé par **Youssef Kassouf** (8464F)*
 
 *Source d’informations:*
-[Cloud Firestore Documentation](https://firebase.google.com/docs/firestore)
+[https://firebase.google.com/docs/firestore](https://firebase.google.com/docs/firestore)
 
 
 <br />
