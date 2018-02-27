@@ -35,7 +35,7 @@ Cloud FireStore est une base de données NoSQL, de documents, conçue pour "l'Au
 
 Cloud Firestore est une base de données sur le cloud, et qui les applications iOS, Android et Web peuvent accéder directement via leurs SDK natifs. Cloud Firestore est aussi disponible dans les SDK Node.js, Java, Python, REST et RPC APIs.
 
-- **Data model: **
+- **Data model:**
 Suivant le modèle de données NoSQL de Cloud Firestore, les données sont stockées dans des documents contenant des champs correspondant aux valeurs, et ces documents sont aussi stockés dans des collections. Les documents peuvent contenir de nombreux types de données, depuis les chaînes de caractères et les nombres jusqu'aux objets complexes. Les documents pouvent aussi contenir des sous-collections.
 <br><br>
 - **Flexibility: **
