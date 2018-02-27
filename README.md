@@ -3,15 +3,15 @@
 
 Sujet: **Firebase Cloud Firestore**
 
- - [Introduction au Cloud Firestore de Google Firebase](#Introduction-au-Cloud-Firestore-de-Google-Firebase)
- - [Concept et spécifications du Cloud Firestore](#concept-et-sp-cifications-du-cloud-firestore)
- - [Différence entre Cloud Firestore et Realtime Database](#diff-rence-entre-cloud-firestore-et-realtime-database)
- - [Code Exemple (Implémentation sur Android)](#code-exemple-impl-mentation-sur-android-)
- - [App Exemple](#App-Exemple)
+ - [Introduction au Cloud Firestore de Google Firebase](#introduction-au-cloud-firestore-de-google-firebase)
+ - [Concept et spécifications du Cloud Firestore](#concept-et-sp%C3%A9cifications-du-cloud-firestore)
+ - [Différence entre Cloud Firestore et Realtime Database](#diff%C3%A9rence-entre-cloud-firestore-et-realtime-database)
+ - [Code Exemple (Implémentation sur Android)](#code-exemple-impl%C3%A9mentation-sur-android)
+ - [App Exemple](#app-exemple)
 
 *Projet préparé par **Youssef Kassouf** (8464F)*
 
-*Source d’informations: *
+*Source d’informations:*
 https://firebase.google.com/docs/firestore
 
 
