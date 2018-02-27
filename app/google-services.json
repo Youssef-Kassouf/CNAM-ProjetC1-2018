@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "252319348895",
+    "firebase_url": "https://cnam-projetc1-2018.firebaseio.com",
+    "project_id": "cnam-projetc1-2018",
+    "storage_bucket": "cnam-projetc1-2018.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252319348895:android:bfa07f26ae429d25",
+        "android_client_info": {
+          "package_name": "com.example.youssefkassouf.cnam_projetc1_2018"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252319348895-7odct9c0jt1qsjj9tbb9g2pipb93aqba.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.youssefkassouf.cnam_projetc1_2018",
+            "certificate_hash": "60aa70484afcff7b13a9368e12c60adefc0876fd"
+          }
+        },
+        {
+          "client_id": "252319348895-pi8sq86ooud90pcdtu1q90c2eh4l1ufi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNPVrj-VIaq7wBGoI8WvuMmtN7eDC1-OA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252319348895-pi8sq86ooud90pcdtu1q90c2eh4l1ufi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
